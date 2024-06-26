@@ -1,5 +1,5 @@
 # Hi there! I'm Nosov Nikita 👋
-## Backend Developer (mostly) | Interests: Web Development, Computer Science, ML, Python, C#
+## Backend Developer (mostly) | I love to make something new, fresh and optimized ^_^
 
 Welcome to my GitHub profile!
 
